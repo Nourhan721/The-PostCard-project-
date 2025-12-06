@@ -1,1 +1,27 @@
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: rgb(96, 96, 233);
+
+}
+ul li {
+    list-style-type: none;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+li{
+    padding: 10px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
